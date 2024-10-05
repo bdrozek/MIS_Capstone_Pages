@@ -78,7 +78,7 @@ const Navbar = () => {
 
       <div className="jack-container">
         <div className="jack-card-content">
-          <h1 className="jack-name">Jack Korwin</h1> 
+          <h1 className="jack-name">Jack Corwin</h1> 
           <p className="jack-role">Jack Role</p> 
           <p className="jack-desc">Working on SRS requirements and helping to develop the front-end and database implementaion of the dashboard</p>
         </div>
